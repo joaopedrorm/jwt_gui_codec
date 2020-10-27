@@ -1,0 +1,3 @@
+jwt
+wxPython
+pyinstaller
